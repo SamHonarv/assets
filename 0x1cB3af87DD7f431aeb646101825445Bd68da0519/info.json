@@ -1,0 +1,9 @@
+"name": "Hotbird network token",
+"website": "https://hotbirdnetwork.com",
+"description": "HNT is create to be a bridge between customers and merchants",
+"explorer": "https://bscscan.com/token/0x1cB3af87DD7f431aeb646101825445Bd68da0519",
+"type": "BEP20",
+"symbol": "HNT",
+"decimals": 18,
+"status": "active",
+"id": "0x1cB3af87DD7f431aeb646101825445Bd68da0519"
